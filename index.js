@@ -32,5 +32,5 @@ destructivelyRemoveFirstKitten()
 
 function appendKitten(name){
 
-  
+
 }
