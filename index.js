@@ -40,8 +40,8 @@ appendKitten("miao")
 
 function prependKitten(name){
 
-  kittens = [name,... kittens]
-  return kittens
+  return [name,... kittens]
+  
 }
 
 prependKitten("ciao")
