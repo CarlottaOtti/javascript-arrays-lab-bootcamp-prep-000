@@ -41,7 +41,7 @@ appendKitten("miao")
 function prependKitten(name){
 
   return [name,... kittens]
-  
+
 }
 
 prependKitten("ciao")
