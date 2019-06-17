@@ -7,3 +7,10 @@ function destructivelyAppendKitten(name){
 }
 
 destructivelyAppendKitten("Luna")
+
+function destructivelyPrependKitten(name){
+kittens.unshift(name)
+   
+}
+
+destructivelyPrependKitten("Tom")
