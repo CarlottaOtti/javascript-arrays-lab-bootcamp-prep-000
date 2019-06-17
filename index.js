@@ -45,3 +45,10 @@ function prependKitten(name){
 }
 
 prependKitten("ciao")
+
+function removeLastKitten(){
+
+  return kittens.slice(0, kittens.length - 1)
+}
+
+removeLastKitten()
