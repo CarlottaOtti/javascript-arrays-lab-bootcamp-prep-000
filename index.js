@@ -37,3 +37,11 @@ function appendKitten(name){
 }
 
 appendKitten("miao")
+
+function prependKitten(name){
+
+  kittens = [name,... kittens]
+  return kittens
+}
+
+prependKitten("ciao")
