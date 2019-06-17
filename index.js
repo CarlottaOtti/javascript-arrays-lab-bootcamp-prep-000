@@ -36,4 +36,4 @@ function appendKitten(name){
 
 }
 
-appendKitten("Adolf")
+appendKitten("miao")
