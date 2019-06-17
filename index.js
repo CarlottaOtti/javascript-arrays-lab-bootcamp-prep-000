@@ -15,4 +15,3 @@ kittens.unshift(name)
 }
 
 destructivelyPrependKitten("Tom")
-
